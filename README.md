@@ -1,2 +1,9 @@
 # color-generator
- This application generates random colors.
+ 
+ This simple website lets you generate random colors.
+
+## Technologies Used
+
+**Javascript**<br/>
+**HTML**<br/>
+**SCSS**<br/>
