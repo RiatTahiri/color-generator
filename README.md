@@ -4,6 +4,6 @@
 
 ## Technologies Used
 
-**Javascript**
-**HTML**
-**SCSS**
+**Javascript**<br/>
+**HTML**<br/>
+**SCSS**<br/>
