@@ -1,6 +1,6 @@
 # color-generator
  
- This simple website lets you generate random colors.
+ Simple Website that lets you generate random colors.
 
 ## Technologies Used
 
